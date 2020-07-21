@@ -1,0 +1,16 @@
+Introduction
+Regarding for my decide to choose this dataset , For that project I'll analysis the Medical Appointment No Shows dataset, it’s a dataset who holds informations about 110527 rows, 14 important feature column for medical appointments of different patients from different neighborhoods in Brazil. This dataset is built for the purpose of finding out the reasons that made patients was not showed up at their scheduled appointment. You can see more details about the 14 data's features in the table below:
+Tip: (dataset breif) notes.
+So, it contains one dependent variable called No-Show to show the decision which take the ‘No’ cardinality when the patient shows up at the scheduled appointment and ‘Yes’ when he don't show up, and to understand the reasons for this behavior, 13 other independent variables were collected in parallel with the main information, which is the showing up or not at each medical appointment.
+Regarding for my introduction i choose 8 indpendent variable and one depenent varaible so after analysis the data by check for any missing data or any doublicated values i also ignore the outliers values like for up- normal value in age -1 so i will give you breife describtion about my result
+
+no-showing rate is 20.2%, less than the overall show-up rate (79.8%).
+The percentage of females is greater than males _ 65% > 35%.
+0 - 2 Female 3566 and Male 3864 they are almost equal
+46480 in [60 - 79] category, which represents 42.1 % of the total
+as in general in this interval 60-79 most patient appear show appointment with no any handicap
+60 - 79 No Hypertension Show 23582
+most frequency ages between 60-79 for No Hypertension and appear in appointment that mean that in this interval of that age not has any Hypertension able to show an appointment
+the two categories ([0 - 39] and [60 - 79]) are the most frequent, the category of the least frequent. [98-115] outlier data and i recommend to drop but i saved it
+observation: i think the duration of children i think male and female the same but after that the number of distribution for female more than the males because :
+finally i think most probabily appear in an appointment depend on no any disease they have but i think also most interval also from 60 to 79 years i think femal most frequency appear in show appoint specially in the interval from 60-79 that highest number 26081 
