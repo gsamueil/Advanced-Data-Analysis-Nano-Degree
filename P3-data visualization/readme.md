@@ -49,7 +49,7 @@ i used three types of visualization
 - univariate i know the most frequesny appear is the subscribers more than customer 
 - biviaraite i compare and make corroletion co-effection between between this feature (categorical and some features like numerical featurs and categorical feature so i used bar char to make this investigation and retrieve more information from this relations like in the 
 (usertype and gender the male is the heiger rate used the bike)also time using i found most of them not more than 30 min and most frequent appear on the morning when they went to work and the time of return back from the work and also as per month i found the july to october most frequency appear on oth of user type
--multivariate i used more than feature to compare also used Polishing Plots to Polishing the data to be good way in data explanatory
+- multivariate i used more than feature to compare also used Polishing Plots to Polishing the data to be good way in data explanatory
 so used for example the relation between month name and user_type group of categories ages so i make some idea at the beginning to retrieve that information 
 like extract the age from the birthday and grouped them into more groups and so on ,
 
